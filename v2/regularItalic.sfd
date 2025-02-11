@@ -1,10 +1,10 @@
 SplineFontDB: 3.2
-FontName: terriac
-FullName: terriac Regular (Italic)
+FontName: terriac-RegularItalic
+FullName: terriac Regular Italic
 FamilyName: terriac
 Weight: Regular
 Copyright: Copyright (c) 2025, TerribleAtCreating
-Version: 002.000
+Version: 2.1
 ItalicAngle: 0
 UnderlinePosition: -75
 UnderlineWidth: 50
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1738091749
-ModificationTime: 1738170957
+ModificationTime: 1739298531
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -43,7 +43,7 @@ HheadDOffset: 1
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "terriac font family, Copyright (c) 2025, TerribleAtCreating+AAoACgAA-Definitions:+AAoA-The original version refers to the copy as distributed by the Copyright Holder.+AAoA-A +ACIA-modified+ACIA version refers to any changes or derivatives made by adding, deleting or substituting any component, in part or in whole, of the original version.+AAoA-License:+AAoA-Permission is granted, free of charge, to any individual obtaining a copy of the +ACIA-terriac+ACIA font family, comprised of terriac Regular, terriac Bold and terriac Italic (collectively +ACIA-terriac+ACIA) to use, copy, study and embed the font, subject to the following conditions:+AAoACgAA-All distribution of the font, in part or in whole, must be done under this same license and all copyright notices must be preserved within the font or in an easily accessible and readable field or header viewable by the user.+AAoA-Any commercial work centered primarily around this font must contain proper acknowledgment of the contribution(s) of the Copyright Holder and Author, via readable fields or headers viewable to users.+AAoACgAA-The +ACIA-terriac+ACIA font is licensed +ACIA-as is+ACIA and the Copyright Holder disclaims of any and all warranties, whether explicit or implicit including but not limited to, any warranties of merchantability, fitness for a particular purpose, or non-infringement of copyright, patent, trademark or other rights.+AAoA-The Copyright Holder will not be viable for any claim of damage or other liability, including general, special, indirect, incidental or consequential damages, whether in an action of contract, wrongful act of infringement or otherwise, arising from, out of the use or inability to use the font or from other dealings in the font.+AAoACgAA-No modification of the font is allowed to use the reserved name +ACIA-terriac+ACIA and any variation of it unless given explicit permission granted by the corresponding Copyright Holder.+AAoA-The name of the Copyright Holder or Author of the font shall not be used to promote, endorse or advertise any modified version, except to awknowledge the contribution(s) of the Copyright Holder and Author or with explicit written permission.+AAoACgAA-This license becomes null and void if any of the above conditions are not met." "" "" "terriac" "Italic"
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "terriac font family, Copyright (c) 2025, TerribleAtCreating+AAoACgAA-Definitions:+AAoA-The original version refers to the copy as distributed by the Copyright Holder.+AAoA-A +ACIA-modified+ACIA version refers to any changes or derivatives made by adding, deleting or substituting any component, in part or in whole, of the original version.+AAoA-License:+AAoA-Permission is granted, free of charge, to any individual obtaining a copy of the +ACIA-terriac+ACIA font family, comprised of terriac Regular, terriac Bold and terriac Italic (collectively +ACIA-terriac+ACIA) to use, copy, study and embed the font, subject to the following conditions:+AAoACgAA-All distribution of the font, in part or in whole, must be done under this same license and all copyright notices must be preserved within the font or in an easily accessible and readable field or header viewable by the user.+AAoA-Any commercial work centered primarily around this font must contain proper acknowledgment of the contribution(s) of the Copyright Holder and Author, via readable fields or headers viewable to users.+AAoACgAA-The +ACIA-terriac+ACIA font is licensed +ACIA-as is+ACIA and the Copyright Holder disclaims of any and all warranties, whether explicit or implicit including but not limited to, any warranties of merchantability, fitness for a particular purpose, or non-infringement of copyright, patent, trademark or other rights.+AAoA-The Copyright Holder will not be viable for any claim of damage or other liability, including general, special, indirect, incidental or consequential damages, whether in an action of contract, wrongful act of infringement or otherwise, arising from, out of the use or inability to use the font or from other dealings in the font.+AAoACgAA-No modification of the font is allowed to use the reserved name +ACIA-terriac+ACIA and any variation of it unless given explicit permission granted by the corresponding Copyright Holder.+AAoA-The name of the Copyright Holder or Author of the font shall not be used to promote, endorse or advertise any modified version, except to awknowledge the contribution(s) of the Copyright Holder and Author or with explicit written permission.+AAoACgAA-This license becomes null and void if any of the above conditions are not met." "" "" "terriac" "Regular Italic"
 Encoding: iso8859-15
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -51,7 +51,7 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 64
-WinInfo: 0 27 6
+WinInfo: 108 27 6
 BeginPrivate: 0
 EndPrivate
 BeginChars: 256 191
@@ -1367,7 +1367,7 @@ EndChar
 StartChar: z
 Encoding: 122 122 25
 Width: 722
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4693,36 +4693,60 @@ EndChar
 
 StartChar: zcaron
 Encoding: 184 382 95
-Width: 302
+Width: 677
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
--22 -306 m 0
- -35 -296 -40 -280 -37 -267 c 0
- -35 -258 -30 -251 -20 -248 c 0
- -16 -246 -6 -246 6 -246 c 0
- 18 -246 33 -246 47 -248 c 2
- 99 -253 l 1
- 129 -236 l 2
- 148 -225 160 -210 163 -196 c 0
- 165 -187 162 -178 155 -172 c 0
- 149 -167 115 -163 78 -163 c 2
- 11 -163 l 1
- 34 -72 l 1
- 56 20 l 1
- 75 36 l 1
- 94 51 l 1
- 109 40 l 1
- 124 28 l 1
- 109 -28 l 1
- 95 -85 l 1
- 136 -92 l 2
- 221 -107 247 -137 233 -205 c 2
- 225 -243 l 1
- 183 -276 l 2
- 145 -306 88 -323 41 -323 c 0
- 15 -323 -8 -318 -22 -306 c 0
+414 547 m 4
+ 355 584 268 658 245 691 c 4
+ 235 705 230 718 233 730 c 4
+ 236 742 245 753 260 761 c 6
+ 278 772 l 5
+ 317 727 l 6
+ 339 702 383 663 416 639 c 6
+ 474 594 l 5
+ 493 614 l 6
+ 503 625 546 668 589 711 c 6
+ 666 789 l 5
+ 681 786 l 6
+ 689 784 699 775 703 766 c 6
+ 709 749 l 5
+ 668 706 l 6
+ 645 682 597 631 560 591 c 6
+ 492 518 l 5
+ 476 518 l 6
+ 468 518 440 531 414 547 c 4
+41 32 m 1
+ 31 48 l 1
+ 43 70 l 1
+ 53 91 l 1
+ 113 121 l 2
+ 146 138 269 196 386 250 c 2
+ 600 349 l 1
+ 592 359 l 1
+ 584 370 l 1
+ 378 372 l 1
+ 174 375 l 1
+ 161 387 l 2
+ 153 395 150 406 152 415 c 0
+ 154 423 159 430 168 435 c 0
+ 175 439 225 440 290 440 c 0
+ 411 440 586 435 636 427 c 0
+ 701 416 732 395 726 368 c 0
+ 724 357 716 345 700 333 c 0
+ 688 324 576 268 453 210 c 2
+ 229 104 l 1
+ 437 109 l 1
+ 646 113 l 1
+ 657 96 l 1
+ 668 78 l 1
+ 654 61 l 1
+ 639 44 l 1
+ 414 38 l 2
+ 290 34 158 28 120 24 c 2
+ 51 16 l 1
+ 41 32 l 1
 EndSplineSet
 EndChar
 
@@ -4853,22 +4877,63 @@ EndChar
 
 StartChar: Zcaron
 Encoding: 180 381 99
-Width: 211
+Width: 947
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-227 634 m 0
- 204 618 195 613 188 613 c 0
- 184 613 179 615 172 618 c 0
- 163 622 160 630 162 640 c 0
- 165 655 179 674 203 696 c 0
- 223 714 249 744 262 761 c 0
- 275 778 293 799 303 806 c 2
- 322 819 l 1
- 334 806 l 2
- 341 799 346 783 343 771 c 0
- 337 742 270 663 227 634 c 0
+639 897 m 4
+ 580 934 492 1008 469 1041 c 4
+ 459 1055 455 1068 458 1080 c 4
+ 461 1092 469 1103 484 1111 c 6
+ 502 1122 l 5
+ 541 1077 l 6
+ 563 1052 607 1013 640 989 c 6
+ 699 944 l 5
+ 717 964 l 6
+ 727 975 771 1018 814 1061 c 6
+ 890 1139 l 5
+ 905 1136 l 6
+ 913 1134 923 1125 927 1116 c 6
+ 934 1099 l 5
+ 892 1056 l 6
+ 869 1032 821 981 784 941 c 6
+ 716 868 l 5
+ 700 868 l 6
+ 692 868 665 881 639 897 c 4
+48 76 m 2
+ 39 91 l 1
+ 51 112 l 2
+ 58 124 102 161 149 196 c 0
+ 196 231 279 292 333 333 c 0
+ 387 374 525 477 642 562 c 0
+ 644 564 860 720 861 727 c 0
+ 863 738 761 745 523 754 c 2
+ 328 761 l 1
+ 325 776 l 2
+ 324 784 329 797 337 805 c 2
+ 352 819 l 1
+ 523 819 l 2
+ 617 819 756 814 830 808 c 2
+ 964 797 l 1
+ 973 781 l 2
+ 977 775 978 769 977 762 c 0
+ 970 728 890 665 601 452 c 0
+ 301 230 249 191 248 185 c 0
+ 248 184 249 184 251 184 c 0
+ 257 184 305 193 357 204 c 0
+ 466 227 660 252 799 261 c 0
+ 851 264 905 269 921 272 c 2
+ 949 278 l 1
+ 961 261 l 1
+ 975 244 l 1
+ 961 225 l 1
+ 946 206 l 1
+ 876 200 l 2
+ 641 179 575 171 485 157 c 0
+ 365 138 188 99 121 77 c 0
+ 91 67 75 63 66 63 c 0
+ 57 63 53 67 48 76 c 2
 EndSplineSet
 EndChar
 
@@ -4933,67 +4998,23 @@ EndChar
 
 StartChar: uni00AD
 Encoding: 173 173 102
-Width: 793
+Width: 462
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-325 385 m 0
- 307 389 290 399 286 406 c 2
- 281 420 l 1
- 293 435 l 1
- 306 451 l 1
- 492 448 l 2
- 595 446 683 441 687 436 c 0
- 691 431 690 419 686 409 c 2
- 678 390 l 1
- 620 383 l 2
- 583 379 527 377 472 377 c 0
- 408 377 347 380 325 385 c 0
-322 90 m 1
- 394 66 l 1
- 394 46 l 1
- 373 33 l 2
- 359 24 344 20 328 20 c 0
- 306 20 282 28 252 44 c 0
- 193 77 119 170 102 232 c 2
- 89 280 l 1
- 103 367 l 1
- 119 454 l 1
- 152 518 l 2
- 199 607 274 701 349 765 c 2
- 413 819 l 1
- 434 816 l 2
- 446 814 458 805 462 796 c 2
- 470 779 l 1
- 407 729 l 2
- 331 667 282 610 230 522 c 2
- 191 455 l 1
- 177 393 l 2
- 176 390 175 386 174 383 c 0
- 151 277 169 204 255 140 c 2
- 322 90 l 1
-526 36 m 1
- 523 52 l 1
- 584 100 l 1
- 646 147 l 1
- 685 201 l 2
- 706 230 736 281 751 313 c 0
- 769 351 783 395 792 439 c 0
- 819 567 810 703 760 752 c 2
- 738 773 l 1
- 747 793 l 1
- 755 813 l 1
- 782 816 l 1
- 809 819 l 1
- 837 776 l 2
- 883 703 892 576 865 448 c 0
- 854 395 837 342 813 292 c 0
- 765 190 713 122 640 65 c 2
- 581 19 l 1
- 555 19 l 1
- 529 19 l 1
- 526 36 l 1
+159 385 m 0
+ 141 389 124 399 120 406 c 2
+ 115 420 l 1
+ 127 435 l 1
+ 140 451 l 1
+ 326 448 l 2
+ 429 446 517 441 521 436 c 0
+ 525 431 524 419 520 409 c 2
+ 512 390 l 1
+ 454 383 l 2
+ 417 379 361 377 306 377 c 0
+ 242 377 181 380 159 385 c 0
 EndSplineSet
 EndChar
 
@@ -5696,6 +5717,16 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
+405 534 m 6
+ 332 555 239 597 233 613 c 4
+ 227 627 244 652 262 658 c 4
+ 270 661 301 653 332 639 c 4
+ 363 625 423 606 465 595 c 4
+ 549 574 561 566 550 538 c 6
+ 542 520 l 5
+ 507 518 l 6
+ 488 517 441 524 405 534 c 6
+ 405 534 l 6
 111 28 m 0
  73 49 56 92 59 150 c 2
  61 194 l 1
@@ -5813,6 +5844,25 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
+140 497 m 4
+ 136 503 135 512 137 521 c 4
+ 138 524 138 527 140 530 c 4
+ 152 552 307 685 399 751 c 6
+ 467 799 l 5
+ 494 799 l 5
+ 522 799 l 5
+ 533 751 l 6
+ 538 724 552 661 565 612 c 6
+ 588 522 l 5
+ 569 506 l 5
+ 548 489 l 5
+ 533 496 l 6
+ 525 500 504 550 489 610 c 6
+ 460 719 l 5
+ 428 696 l 6
+ 410 683 346 629 284 577 c 4
+ 222 525 165 482 159 482 c 4
+ 153 482 145 489 140 497 c 4
 111 28 m 0
  73 49 56 92 59 150 c 2
  61 194 l 1
@@ -5866,6 +5916,30 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
+342 576 m 6
+ 297 636 266 659 232 659 c 4
+ 226 659 219 659 213 657 c 4
+ 174 648 111 605 86 570 c 6
+ 64 540 l 5
+ 44 540 l 6
+ 24 540 16 552 20 569 c 4
+ 25 592 47 624 86 656 c 4
+ 149 708 193 728 248 728 c 4
+ 315 728 351 702 410 613 c 6
+ 431 581 l 5
+ 460 581 l 5
+ 489 581 l 5
+ 556 616 l 6
+ 593 636 648 670 679 692 c 4
+ 733 730 767 749 785 749 c 4
+ 798 749 803 739 799 718 c 6
+ 794 694 l 5
+ 702 631 l 6
+ 652 597 582 556 545 539 c 6
+ 478 509 l 5
+ 435 509 l 5
+ 392 509 l 5
+ 342 576 l 6
 111 28 m 0
  73 49 56 92 59 150 c 2
  61 194 l 1
@@ -5994,6 +6068,36 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
+311 531 m 0
+ 292 537 266 553 251 567 c 2
+ 224 591 l 1
+ 219 627 l 1
+ 215 663 l 1
+ 229 696 l 2
+ 266 782 348 858 426 878 c 2
+ 469 889 l 1
+ 507 879 l 2
+ 561 864 586 835 599 774 c 2
+ 610 721 l 1
+ 589 680 l 2
+ 543 589 441 524 355 524 c 0
+ 339 524 325 527 311 531 c 0
+460 627 m 0
+ 481 641 506 666 517 683 c 2
+ 537 714 l 1
+ 517 746 l 2
+ 506 763 498 783 500 791 c 2
+ 503 805 l 1
+ 474 811 l 1
+ 446 818 l 1
+ 411 802 l 2
+ 364 780 315 730 298 688 c 2
+ 284 653 l 1
+ 294 636 l 2
+ 300 627 318 613 333 605 c 2
+ 360 591 l 1
+ 391 597 l 2
+ 408 600 439 613 460 627 c 0
 111 28 m 0
  73 49 56 92 59 150 c 2
  61 194 l 1
@@ -6077,7 +6181,10 @@ SplineSet
  128 152 l 1
  134 115 l 1
  167 103 l 2
- 186 96 230 90 268 90 c 2
+ 184 96 225 91 261 90 c 1
+ 262 91 l 1
+ 264 90 l 2
+ 266 90 267 90 268 90 c 2
  336 89 l 1
  402 108 l 2
  431 116 451 121 464 121 c 0
@@ -6086,8 +6193,28 @@ SplineSet
  471 64 l 1
  400 41 l 1
  328 18 l 1
- 256 19 l 2
- 217 19 171 23 155 27 c 0
+ 279 19 l 1
+ 278 12 l 1
+ 263 -45 l 5
+ 305 -52 l 6
+ 390 -67 416 -97 402 -165 c 6
+ 394 -203 l 5
+ 352 -236 l 6
+ 314 -266 257 -283 210 -283 c 4
+ 184 -283 160 -278 146 -266 c 4
+ 133 -256 129 -240 132 -227 c 4
+ 134 -218 139 -211 149 -208 c 4
+ 153 -206 162 -206 174 -206 c 4
+ 186 -206 202 -206 216 -208 c 6
+ 268 -213 l 5
+ 297 -196 l 6
+ 316 -185 329 -170 332 -156 c 4
+ 334 -147 331 -138 324 -132 c 4
+ 318 -127 284 -123 247 -123 c 6
+ 180 -123 l 5
+ 202 -32 l 5
+ 215 20 l 1
+ 189 21 166 24 155 27 c 0
 EndSplineSet
 EndChar
 
@@ -6098,6 +6225,16 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
+450 604 m 6
+ 377 625 284 667 278 683 c 4
+ 272 697 289 722 307 728 c 4
+ 315 731 346 723 377 709 c 4
+ 408 695 468 676 510 665 c 4
+ 594 644 605 636 594 608 c 6
+ 587 590 l 5
+ 552 588 l 6
+ 533 587 486 594 450 604 c 6
+ 450 604 l 6
 255 19 m 0
  144 35 89 72 72 146 c 2
  62 188 l 1
@@ -6213,6 +6350,25 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
+209 587 m 4
+ 205 593 204 602 206 611 c 4
+ 207 614 207 617 209 620 c 4
+ 221 642 376 775 468 841 c 6
+ 536 889 l 5
+ 563 889 l 5
+ 591 889 l 5
+ 602 841 l 6
+ 607 814 621 751 634 702 c 6
+ 657 612 l 5
+ 638 596 l 5
+ 617 579 l 5
+ 603 586 l 6
+ 595 590 573 640 558 700 c 6
+ 529 809 l 5
+ 497 786 l 6
+ 479 773 415 719 353 667 c 4
+ 291 615 235 572 229 572 c 4
+ 223 572 214 579 209 587 c 4
 255 19 m 0
  144 35 89 72 72 146 c 2
  62 188 l 1
@@ -6339,18 +6495,16 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-194 559 m 0
- 189 566 188 579 191 593 c 0
- 192 596 193 599 194 602 c 2
- 203 631 l 1
- 231 643 l 1
- 258 655 l 1
- 274 646 l 2
- 283 641 292 627 293 615 c 2
- 294 594 l 1
- 266 569 l 2
- 248 553 231 545 218 545 c 0
- 208 545 200 550 194 559 c 0
+243 474 m 6
+ 170 495 76 537 70 553 c 4
+ 64 567 81 592 99 598 c 4
+ 107 601 139 593 170 579 c 4
+ 201 565 261 546 303 535 c 4
+ 387 514 398 506 387 478 c 6
+ 379 460 l 5
+ 344 458 l 6
+ 325 457 279 464 243 474 c 6
+ 243 474 l 6
 75 12 m 0
  66 18 54 37 49 53 c 2
  40 82 l 1
@@ -6422,18 +6576,25 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-194 559 m 0
- 189 566 188 579 191 593 c 0
- 192 596 193 599 194 602 c 2
- 203 631 l 1
- 231 643 l 1
- 258 655 l 1
- 274 646 l 2
- 283 641 292 627 293 615 c 2
- 294 594 l 1
- 266 569 l 2
- 248 553 231 545 218 545 c 0
- 208 545 200 550 194 559 c 0
+-52 347 m 4
+ -56 353 -57 362 -55 371 c 4
+ -54 374 -54 377 -52 380 c 4
+ -40 402 115 535 207 601 c 6
+ 275 649 l 5
+ 302 649 l 5
+ 330 649 l 5
+ 341 601 l 6
+ 346 574 360 511 373 462 c 6
+ 396 372 l 5
+ 377 356 l 5
+ 356 339 l 5
+ 342 346 l 6
+ 334 350 312 400 297 460 c 6
+ 268 569 l 5
+ 236 546 l 6
+ 218 533 154 479 92 427 c 4
+ 30 375 -26 332 -32 332 c 4
+ -38 332 -47 339 -52 347 c 4
 75 12 m 0
  66 18 54 37 49 53 c 2
  40 82 l 1
@@ -6650,6 +6811,16 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
+450 604 m 6
+ 377 625 284 667 278 683 c 4
+ 272 697 289 722 307 728 c 4
+ 315 731 346 723 377 709 c 4
+ 408 695 468 676 510 665 c 4
+ 594 644 605 636 594 608 c 6
+ 587 590 l 5
+ 552 588 l 6
+ 533 587 486 594 450 604 c 6
+ 450 604 l 6
 168 20 m 0
  154 25 128 39 111 51 c 2
  79 74 l 1
@@ -6765,6 +6936,25 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
+184 517 m 4
+ 180 523 179 532 181 541 c 4
+ 182 544 182 547 184 550 c 4
+ 196 572 351 705 443 771 c 6
+ 511 819 l 5
+ 538 819 l 5
+ 566 819 l 5
+ 577 771 l 6
+ 582 744 596 681 609 632 c 6
+ 632 542 l 5
+ 613 526 l 5
+ 592 509 l 5
+ 578 516 l 6
+ 570 520 548 570 533 630 c 6
+ 504 739 l 5
+ 472 716 l 6
+ 454 703 390 649 328 597 c 4
+ 266 545 210 502 204 502 c 4
+ 198 502 189 509 184 517 c 4
 168 20 m 0
  154 25 128 39 111 51 c 2
  79 74 l 1
@@ -6817,6 +7007,30 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
+380 606 m 6
+ 335 666 303 689 269 689 c 4
+ 263 689 256 689 250 687 c 4
+ 211 678 149 635 124 600 c 6
+ 101 570 l 5
+ 81 570 l 6
+ 61 570 53 582 57 599 c 4
+ 62 622 85 654 124 686 c 4
+ 187 738 230 758 285 758 c 4
+ 352 758 389 732 448 643 c 6
+ 469 611 l 5
+ 498 611 l 5
+ 527 611 l 5
+ 593 646 l 6
+ 630 666 685 700 716 722 c 4
+ 770 760 805 779 823 779 c 4
+ 836 779 840 769 836 748 c 6
+ 831 724 l 5
+ 740 661 l 6
+ 690 627 619 586 582 569 c 6
+ 516 539 l 5
+ 473 539 l 5
+ 430 539 l 5
+ 380 606 l 6
 168 20 m 0
  154 25 128 39 111 51 c 2
  79 74 l 1
@@ -6943,6 +7157,16 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
+358 594 m 6
+ 285 615 192 657 186 673 c 4
+ 180 687 197 712 215 718 c 4
+ 223 721 254 713 285 699 c 4
+ 316 685 376 666 418 655 c 4
+ 502 634 513 626 502 598 c 6
+ 495 580 l 5
+ 459 578 l 6
+ 440 577 394 584 358 594 c 6
+ 358 594 l 6
 392 42 m 0
  387 49 383 75 382 99 c 2
  379 142 l 1
@@ -7046,6 +7270,25 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
+151 597 m 4
+ 147 603 146 612 148 621 c 4
+ 149 624 149 627 151 630 c 4
+ 163 652 318 785 410 851 c 6
+ 478 899 l 5
+ 505 899 l 5
+ 533 899 l 5
+ 544 851 l 6
+ 549 824 563 761 576 712 c 6
+ 599 622 l 5
+ 580 606 l 5
+ 559 589 l 5
+ 545 596 l 6
+ 537 600 515 650 500 710 c 6
+ 471 819 l 5
+ 439 796 l 6
+ 421 783 357 729 295 677 c 4
+ 233 625 177 582 171 582 c 4
+ 165 582 156 589 151 597 c 4
 392 42 m 0
  387 49 383 75 382 99 c 2
  379 142 l 1
@@ -7160,29 +7403,77 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-107 -344 m 0
- 100 -335 99 -323 102 -316 c 0
- 105 -309 142 -228 184 -136 c 2
- 260 32 l 1
- 219 120 l 2
- 170 225 111 428 118 463 c 2
- 124 488 l 1
- 141 494 l 2
- 151 497 163 498 167 495 c 0
- 171 492 191 438 209 375 c 0
- 227 312 254 232 269 196 c 2
- 296 130 l 1
- 307 139 l 2
- 319 149 423 372 447 439 c 0
- 456 464 470 494 477 504 c 2
- 491 522 l 1
- 512 519 l 1
- 534 516 l 1
- 529 480 l 2
- 528 477 528 473 527 470 c 0
- 518 430 483 351 296 -52 c 0
- 185 -292 152 -359 128 -359 c 0
- 121 -359 114 -353 107 -344 c 0
+-1 -485 m 5
+ -19 -460 l 5
+ -13 -411 l 5
+ -8 -362 l 5
+ 21 -306 l 6
+ 37 -275 71 -222 98 -188 c 4
+ 143 -131 278 -12 370 52 c 6
+ 408 79 l 5
+ 420 135 l 6
+ 427 166 430 191 427 191 c 4
+ 424 191 399 164 370 131 c 4
+ 341 98 298 59 275 44 c 6
+ 234 17 l 5
+ 181 13 l 6
+ 152 11 117 14 103 20 c 4
+ 71 33 51 83 55 139 c 6
+ 58 182 l 5
+ 88 248 l 6
+ 105 284 136 338 158 369 c 6
+ 197 426 l 5
+ 219 429 l 6
+ 231 431 244 425 249 417 c 6
+ 258 403 l 5
+ 214 340 l 6
+ 190 305 161 252 148 223 c 6
+ 124 170 l 5
+ 126 133 l 5
+ 127 96 l 5
+ 151 83 l 5
+ 175 71 l 5
+ 205 81 l 6
+ 222 87 248 101 263 113 c 4
+ 310 150 397 258 436 328 c 4
+ 457 366 482 401 492 406 c 6
+ 510 416 l 5
+ 525 405 l 5
+ 540 394 l 5
+ 514 258 l 5
+ 488 122 l 5
+ 552 156 l 6
+ 623 194 645 198 659 176 c 4
+ 673 153 655 134 592 105 c 4
+ 560 90 517 68 497 55 c 6
+ 461 32 l 5
+ 437 -58 l 5
+ 412 -147 l 5
+ 371 -219 l 6
+ 278 -385 142 -509 52 -509 c 6
+ 17 -509 l 5
+ -1 -485 l 5
+157 -391 m 6
+ 249 -313 350 -154 370 -53 c 6
+ 378 -14 l 5
+ 275 -101 l 5
+ 173 -188 l 5
+ 127 -253 l 6
+ 82 -317 50 -394 55 -424 c 4
+ 56 -433 66 -439 78 -439 c 6
+ 99 -439 l 5
+ 157 -391 l 6
+221 539 m 1
+ 206 553 l 1
+ 219 569 l 2
+ 235 589 464 686 498 688 c 2
+ 521 689 l 1
+ 530 671 l 1
+ 537 653 l 1
+ 510 636 l 2
+ 481 617 312 547 265 534 c 2
+ 236 526 l 1
+ 221 539 l 1
 EndSplineSet
 EndChar
 
@@ -7193,29 +7484,88 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-107 -344 m 0
- 100 -335 99 -323 102 -316 c 0
- 105 -309 142 -228 184 -136 c 2
- 260 32 l 1
- 219 120 l 2
- 170 225 111 428 118 463 c 2
- 124 488 l 1
- 141 494 l 2
- 151 497 163 498 167 495 c 0
- 171 492 191 438 209 375 c 0
- 227 312 254 232 269 196 c 2
- 296 130 l 1
- 307 139 l 2
- 319 149 423 372 447 439 c 0
- 456 464 470 494 477 504 c 2
- 491 522 l 1
- 512 519 l 1
- 534 516 l 1
- 529 480 l 2
- 528 477 528 473 527 470 c 0
- 518 430 483 351 296 -52 c 0
- 185 -292 152 -359 128 -359 c 0
- 121 -359 114 -353 107 -344 c 0
+-1 -485 m 5
+ -19 -460 l 5
+ -13 -411 l 5
+ -8 -362 l 5
+ 21 -306 l 6
+ 37 -275 71 -222 98 -188 c 4
+ 143 -131 278 -12 370 52 c 6
+ 408 79 l 5
+ 420 135 l 6
+ 427 166 430 191 427 191 c 4
+ 424 191 399 164 370 131 c 4
+ 341 98 298 59 275 44 c 6
+ 234 17 l 5
+ 181 13 l 6
+ 152 11 117 14 103 20 c 4
+ 71 33 51 83 55 139 c 6
+ 58 182 l 5
+ 88 248 l 6
+ 105 284 136 338 158 369 c 6
+ 197 426 l 5
+ 219 429 l 6
+ 231 431 244 425 249 417 c 6
+ 258 403 l 5
+ 214 340 l 6
+ 190 305 161 252 148 223 c 6
+ 124 170 l 5
+ 126 133 l 5
+ 127 96 l 5
+ 151 83 l 5
+ 175 71 l 5
+ 205 81 l 6
+ 222 87 248 101 263 113 c 4
+ 310 150 397 258 436 328 c 4
+ 457 366 482 401 492 406 c 6
+ 510 416 l 5
+ 525 405 l 5
+ 540 394 l 5
+ 514 258 l 5
+ 488 122 l 5
+ 552 156 l 6
+ 623 194 645 198 659 176 c 4
+ 673 153 655 134 592 105 c 4
+ 560 90 517 68 497 55 c 6
+ 461 32 l 5
+ 437 -58 l 5
+ 412 -147 l 5
+ 371 -219 l 6
+ 278 -385 142 -509 52 -509 c 6
+ 17 -509 l 5
+ -1 -485 l 5
+157 -391 m 6
+ 249 -313 350 -154 370 -53 c 6
+ 378 -14 l 5
+ 275 -101 l 5
+ 173 -188 l 5
+ 127 -253 l 6
+ 82 -317 50 -394 55 -424 c 4
+ 56 -433 66 -439 78 -439 c 6
+ 99 -439 l 5
+ 157 -391 l 6
+185 572 m 2
+ 165 588 l 1
+ 170 613 l 1
+ 176 638 l 1
+ 205 655 l 1
+ 235 672 l 1
+ 267 655 l 1
+ 299 638 l 1
+ 294 618 l 2
+ 288 592 247 556 222 556 c 0
+ 212 556 196 563 185 572 c 2
+435 572 m 2
+ 415 588 l 1
+ 420 613 l 1
+ 426 638 l 1
+ 455 655 l 1
+ 485 672 l 1
+ 517 655 l 1
+ 549 638 l 1
+ 544 618 l 2
+ 538 592 497 556 472 556 c 0
+ 462 556 446 563 435 572 c 2
 EndSplineSet
 EndChar
 
@@ -8036,6 +8386,16 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
+513 854 m 6
+ 440 875 347 917 341 933 c 4
+ 335 947 352 972 370 978 c 4
+ 378 981 410 973 441 959 c 4
+ 472 945 531 926 573 915 c 4
+ 657 894 669 886 658 858 c 6
+ 650 840 l 5
+ 615 838 l 6
+ 596 837 549 844 513 854 c 6
+ 513 854 l 6
 184 55 m 0
  164 63 133 87 115 108 c 2
  83 147 l 1
@@ -8124,17 +8484,17 @@ SplineSet
  324 40 l 1
  273 40 l 2
  245 40 204 47 184 55 c 0
-383 869 m 1
- 368 883 l 1
- 381 899 l 2
- 397 919 626 1016 660 1018 c 2
- 684 1019 l 1
- 692 1001 l 1
- 699 983 l 1
- 672 966 l 2
- 643 947 474 877 427 864 c 2
- 398 856 l 1
- 383 869 l 1
+383 869 m 5
+ 368 883 l 5
+ 381 899 l 6
+ 397 919 626 1016 660 1018 c 6
+ 684 1019 l 5
+ 692 1001 l 5
+ 699 983 l 5
+ 672 966 l 6
+ 643 947 474 877 427 864 c 6
+ 398 856 l 5
+ 383 869 l 5
 EndSplineSet
 EndChar
 
@@ -8145,6 +8505,25 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
+296 857 m 4
+ 292 863 291 872 293 881 c 4
+ 294 884 294 887 296 890 c 4
+ 308 912 463 1045 555 1111 c 6
+ 623 1159 l 5
+ 650 1159 l 5
+ 678 1159 l 5
+ 689 1111 l 6
+ 694 1084 709 1021 722 972 c 6
+ 744 882 l 5
+ 725 866 l 5
+ 704 849 l 5
+ 690 856 l 6
+ 682 860 660 910 645 970 c 6
+ 616 1079 l 5
+ 584 1056 l 6
+ 566 1043 502 989 440 937 c 4
+ 378 885 322 842 316 842 c 4
+ 310 842 301 849 296 857 c 4
 184 55 m 0
  164 63 133 87 115 108 c 2
  83 147 l 1
@@ -8265,6 +8644,17 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
+374 829 m 5
+ 359 843 l 5
+ 373 859 l 6
+ 389 879 618 976 652 978 c 6
+ 675 979 l 5
+ 683 961 l 5
+ 690 943 l 5
+ 664 926 l 6
+ 635 907 465 837 418 824 c 6
+ 389 816 l 5
+ 374 829 l 5
 298 93 m 2
  288 111 l 1
  326 292 l 1
@@ -8519,8 +8909,8 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-381 -42 m 0
- 351 -37 300 -20 269 -3 c 2
+321 -26 m 1
+ 302 -19 284 -11 269 -3 c 2
  212 27 l 1
  172 79 l 1
  132 132 l 1
@@ -8565,7 +8955,24 @@ SplineSet
  604 -32 l 1
  535 -43 l 2
  497 -49 477 -52 458 -52 c 0
- 438 -52 420 -49 381 -42 c 0
+ 444 -52 430 -50 410 -47 c 1
+ 425 -52 l 2
+ 504 -78 536 -97 522 -165 c 2
+ 514 -203 l 1
+ 472 -236 l 2
+ 434 -266 377 -283 330 -283 c 0
+ 304 -283 280 -278 266 -266 c 0
+ 253 -256 249 -240 252 -227 c 0
+ 254 -218 259 -211 269 -208 c 0
+ 273 -206 282 -206 294 -206 c 0
+ 306 -206 322 -206 336 -208 c 2
+ 388 -213 l 1
+ 417 -196 l 2
+ 436 -185 449 -170 452 -156 c 0
+ 454 -147 451 -138 444 -132 c 0
+ 438 -127 404 -123 367 -123 c 2
+ 300 -123 l 1
+ 321 -26 l 1
 EndSplineSet
 EndChar
 
@@ -8728,8 +9135,20 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-168 20 m 0
- 154 25 128 39 111 51 c 2
+321 98 m 0
+ 347 107 391 126 418 141 c 2
+ 467 168 l 1
+ 499 209 l 1
+ 531 251 l 1
+ 542 300 l 1
+ 552 349 l 1
+ 517 393 l 1
+ 417 299 313 196 211 87 c 1
+ 220 85 231 84 241 84 c 0
+ 265 84 292 89 321 98 c 0
+9 -79 m 0
+ 6 -75 6 -70 7 -63 c 0
+ 11 -44 37 -11 100 59 c 1
  79 74 l 1
  66 115 l 1
  54 157 l 1
@@ -8741,7 +9160,14 @@ SplineSet
  316 497 l 1
  375 522 l 1
  417 522 l 2
- 471 522 539 500 573 472 c 2
+ 454 522 499 512 534 496 c 1
+ 565 524 595 551 624 575 c 2
+ 745 678 l 1
+ 762 666 l 2
+ 771 660 778 648 778 639 c 2
+ 777 623 l 1
+ 650 513 l 2
+ 630 495 610 477 589 459 c 1
  600 450 l 1
  611 402 l 1
  623 353 l 1
@@ -8753,23 +9179,19 @@ SplineSet
  249 15 l 2
  241 14 233 14 225 14 c 0
  202 14 178 16 168 20 c 0
-321 98 m 0
- 347 107 391 126 418 141 c 2
- 467 168 l 1
- 499 209 l 1
- 531 251 l 1
- 542 300 l 1
- 552 349 l 1
- 515 396 l 1
- 478 443 l 1
+ 164 21 160 24 155 26 c 1
+ 57 -80 l 1
+ 36 -83 l 2
+ 25 -85 12 -83 9 -79 c 0
+477 443 m 1
  427 448 l 1
  376 453 l 1
  326 431 l 2
  238 392 153 294 135 208 c 2
  126 166 l 1
  138 138 l 2
- 154 103 192 84 241 84 c 0
- 265 84 292 89 321 98 c 0
+ 142 130 146 123 152 117 c 1
+ 261 234 373 346 477 443 c 1
 EndSplineSet
 EndChar
 
@@ -9897,58 +10319,58 @@ EndChar
 StartChar: questiondown
 Encoding: 191 191 190
 Width: 558
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
-281 160 m 1
- 265 181 l 1
- 273 217 l 2
- 284 268 321 315 431 418 c 0
- 553 533 586 573 596 618 c 0
- 609 680 563 736 487 749 c 2
- 451 756 l 1
- 393 733 l 1
- 336 710 l 1
- 292 670 l 1
- 249 629 l 1
- 222 567 l 1
- 194 505 l 1
- 176 495 l 1
- 157 484 l 1
- 143 498 l 1
- 129 513 l 1
- 146 559 l 2
- 183 664 258 746 360 791 c 2
- 423 819 l 1
- 481 819 l 1
- 539 819 l 1
- 584 794 l 1
- 630 770 l 1
- 651 731 l 1
- 674 693 l 1
- 667 637 l 1
- 659 580 l 1
- 622 526 l 2
- 601 496 537 429 481 377 c 0
- 374 278 352 254 347 229 c 2
- 343 214 l 1
- 372 203 l 2
- 392 196 398 184 396 173 c 0
- 392 156 368 140 331 140 c 2
- 297 140 l 1
- 281 160 l 1
-260 -49 m 2
- 240 -33 l 1
- 245 -8 l 1
- 251 17 l 1
- 280 34 l 1
- 310 51 l 1
- 342 34 l 1
- 374 17 l 1
- 369 -3 l 2
- 363 -29 322 -65 297 -65 c 0
- 287 -65 271 -58 260 -49 c 2
+365 264 m 5
+ 381 243 l 5
+ 373 207 l 6
+ 362 156 325 109 215 6 c 4
+ 93 -109 60 -149 50 -194 c 4
+ 37 -256 83 -312 159 -325 c 6
+ 195 -332 l 5
+ 253 -309 l 5
+ 310 -286 l 5
+ 354 -246 l 5
+ 397 -205 l 5
+ 425 -143 l 5
+ 452 -81 l 5
+ 470 -71 l 5
+ 489 -60 l 5
+ 503 -74 l 5
+ 517 -89 l 5
+ 500 -135 l 6
+ 463 -240 388 -322 286 -367 c 6
+ 223 -395 l 5
+ 165 -395 l 5
+ 107 -395 l 5
+ 62 -370 l 5
+ 16 -346 l 5
+ -5 -307 l 5
+ -28 -269 l 5
+ -21 -213 l 5
+ -13 -156 l 5
+ 24 -102 l 6
+ 45 -72 109 -5 165 47 c 4
+ 272 146 294 170 299 195 c 6
+ 303 210 l 5
+ 274 221 l 6
+ 254 228 248 240 250 251 c 4
+ 254 268 278 284 315 284 c 6
+ 349 284 l 5
+ 365 264 l 5
+387 473 m 6
+ 406 457 l 5
+ 401 432 l 5
+ 396 407 l 5
+ 366 390 l 5
+ 336 373 l 5
+ 304 390 l 5
+ 273 407 l 5
+ 277 427 l 6
+ 283 453 324 489 349 489 c 4
+ 359 489 376 482 387 473 c 6
 EndSplineSet
 EndChar
 EndChars
